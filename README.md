@@ -5,7 +5,7 @@ Dans ce tp nous avons vu les delegues
  * VisualStudio
  * WindowsForm
  
- Le développement tourne autour de 2 grandes parties.
+ Le développement tourne autour de 3 grandes parties.
  * Création d'un livre.
  * Affichage des informations du livre.
  * Modification des informations du livre.
